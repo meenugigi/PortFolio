@@ -78,7 +78,7 @@ code {
   width: 100%;
 }  
 .navbar{
-  background-color: #521433;
+  background-color: #4d0000;
 }
 
 .nav-bgcolor{
@@ -330,7 +330,7 @@ code {
 }
 
 .grad-masters{
-  background-color: #521433;
+  background-color: #4d0000;
   color: white;
   padding-bottom: 20px;
 }
@@ -424,7 +424,7 @@ code {
   margin-top: 50px;
   margin-left: 80px;
   margin-right: 80px;
-  background-color: #521433;
+  background-color: #4d0000;
   display: flex;
   color: white;
   justify-content: space-around;
@@ -446,7 +446,7 @@ code {
     margin-top: 50px;
     margin-left: 80px;
     margin-right: 80px;
-    background-color: #521433;
+    background-color: #4d0000;
     display: flex;
     color: white;
     justify-content: space-around;
