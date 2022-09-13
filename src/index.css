@@ -78,7 +78,7 @@ code {
   width: 100%;
 }  
 .navbar{
-  background-color: #4d0000;
+  background-color: #4d0019;
 }
 
 .nav-bgcolor{
@@ -95,7 +95,7 @@ code {
   text-decoration: none;
 } 
 .link:hover{
-  background-color: #476b6b;
+  background-color: #732626;
 } 
 .link{ 
   font-size: 14px;
@@ -199,7 +199,7 @@ code {
 
 #btn{
   position: absolute;
-  background-color: #204060;
+  background-color: #4d0019;
   top: 77%;
   left: 59%;
   color: white;
@@ -235,7 +235,7 @@ code {
 
   #btn{
     position: absolute;
-    background-color: #204060;
+    background-color: #4d0019;
     top: 90%;
     left: 45%;
     color: white;
@@ -330,7 +330,7 @@ code {
 }
 
 .grad-masters{
-  background-color: #4d0000;
+  background-color: #4d0019;
   color: white;
   padding-bottom: 20px;
 }
@@ -424,7 +424,7 @@ code {
   margin-top: 50px;
   margin-left: 80px;
   margin-right: 80px;
-  background-color: #4d0000;
+  background-color: #4d0019;
   display: flex;
   color: white;
   justify-content: space-around;
@@ -446,7 +446,7 @@ code {
     margin-top: 50px;
     margin-left: 80px;
     margin-right: 80px;
-    background-color: #4d0000;
+    background-color: #4d0019;
     display: flex;
     color: white;
     justify-content: space-around;

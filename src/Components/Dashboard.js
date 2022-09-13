@@ -1,7 +1,7 @@
 import React, { Component, useState } from 'react';
 import "bootstrap/dist/css/bootstrap.min.css";
 
-const wallpaper = new URL("../images/dashboard.jpg", import.meta.url)
+const wallpaper = new URL("../images/bg.jpg", import.meta.url)
 const profilepic = new URL("../images/profilephoto.JPG", import.meta.url)
 const github = new URL("../images/github.png", import.meta.url)
 const linkedin = new URL("../images/linkedin.png", import.meta.url)

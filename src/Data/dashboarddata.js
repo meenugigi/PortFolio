@@ -1,7 +1,7 @@
 export default [
     {
         
-        img: "background.jpg",
+        img: "dashboard.jpg",
         title: "Meenu Gigi",
         role: "Graduate Student",
         github: "https://github.com/meenugigi",
